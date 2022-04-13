@@ -1,6 +1,6 @@
 # WPB-checkpointing_borg_python
 
-This repository contains all code related to the post ["Checkpointing and restoring runs with the Borg MOEA,"](https://waterprogramming.wordpress.com/?p=19135) by Andrew Hamilton, on the Water Programming Blog.
+This repository contains all code related to the post ["Checkpointing and restoring runs with the Borg MOEA,"](https://waterprogramming.wordpress.com/2022/04/13/checkpointing-and-restoring-runs-with-the-borg-moea/) by Andrew Hamilton, on the Water Programming Blog.
 
 All experiments were run on the Cube cluster at Cornell University, using 2 nodes per seed. I used Python 3.9.4, and the only non-standard modules needed are scipy, numpy, pandas, matplotlib, and Jupyter Notebooks. 
 
