@@ -8,7 +8,7 @@ You will also need to download the [Borg MOEA](http://borgmoea.org/). The Borg d
 
 Lastly, download the [MOEA Framework](http://moeaframework.org/) and [pareto.py](https://github.com/matthewjwoodruff/pareto.py), and place them in the WPB-checkpointing_borg_python directory. 
 
-This repository builds off of code from a [previous blog post](https://wordpress.com/post/waterprogramming.wordpress.com/19006) on parallelization of the Borg MOEA in Python, which itself built off of [Andrew Dircks' blog post] on the Borg MOEA Python wrapper and the Lake Problem.
+This repository builds off of code from a [previous blog post](https://wordpress.com/post/waterprogramming.wordpress.com/19006) on parallelization of the Borg MOEA in Python, which itself built off of [Andrew Dircks' blog post](https://waterprogramming.wordpress.com/2020/07/21/using-the-python-borg-wrapper-lake-problem-example/) on the Borg MOEA Python wrapper and the Lake Problem.
 
 To repeat the analysis, run the following steps from within the WPB-checkpointing_borg_python directory:
 
