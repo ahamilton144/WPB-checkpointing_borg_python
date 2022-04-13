@@ -3,14 +3,14 @@
 seeds=(1 2 3 4 5)
 
 #### round 1
-#round=1
-#nfes_init=(0 0 0 0 0)
-#nfes_final=(6100 6100 6100 6100 6100)
+round=1
+nfes_init=(0 0 0 0 0)
+nfes_final=(6100 6100 6100 6100 6100)
 
 ### round 2
-round=2
-nfes_init=(6101 6101 6101 6101 6101)
-nfes_final=(12101 12101 12101 12101 12101)
+#round=2
+#nfes_init=(6101 6101 6101 6101 6101)
+#nfes_final=(12101 12101 12101 12101 12101)
 
 ### run postprocessing for this round
 num_results=${#seeds[@]}
